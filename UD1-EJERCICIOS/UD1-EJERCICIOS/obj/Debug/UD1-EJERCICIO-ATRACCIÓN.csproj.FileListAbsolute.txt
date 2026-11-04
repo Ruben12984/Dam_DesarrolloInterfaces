@@ -1,0 +1,7 @@
+C:\Users\Rubén\source\repos\UD1-EJERCICIOS\UD1-EJERCICIOS\bin\Debug\UD1-EJERCICIOS.exe.config
+C:\Users\Rubén\source\repos\UD1-EJERCICIOS\UD1-EJERCICIOS\bin\Debug\UD1-EJERCICIOS.exe
+C:\Users\Rubén\source\repos\UD1-EJERCICIOS\UD1-EJERCICIOS\bin\Debug\UD1-EJERCICIOS.pdb
+C:\Users\Rubén\source\repos\UD1-EJERCICIOS\UD1-EJERCICIOS\obj\Debug\UD1-EJERCICIO-ATRACCIÓN.csproj.AssemblyReference.cache
+C:\Users\Rubén\source\repos\UD1-EJERCICIOS\UD1-EJERCICIOS\obj\Debug\UD1-EJERCICIO-ATRACCIÓN.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\source\repos\UD1-EJERCICIOS\UD1-EJERCICIOS\obj\Debug\UD1-EJERCICIOS.exe
+C:\Users\Rubén\source\repos\UD1-EJERCICIOS\UD1-EJERCICIOS\obj\Debug\UD1-EJERCICIOS.pdb

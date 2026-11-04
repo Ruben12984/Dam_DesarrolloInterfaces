@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UD2_PIZZA.Views.SeleccionarPizza"
+             Title="Seleccionar Tipo Pizza"
+             BackgroundColor="Beige">
+    
+    <VerticalStackLayout HorizontalOptions="Center">
+        <Image Source="pizza.png" Margin="50"/>
+        <Label Text="Bienvenido a la pizzeria" FontSize="26"/>
+        <Label Text="Tipo de Pizza" FontSize="18" />
+        <Picker x:Name="pckPizza">
+            <Picker.Items>
+                <x:String>Margarita</x:String>
+                <x:String>Peperoni</x:String>
+                <x:String>4 Quesos</x:String>
+            </Picker.Items>
+        </Picker>
+        <Label Text="Cantidad: 1" x:Name="lblCantidad"/>
+        
+        <Slider Minimum="1" Maximum="10" Value="1"
+            x:Name="sliCantidad" ValueChanged="sliCantidad_ValueChanged"/>
+        
+        <Button Text="Siguiente" x:Name="btnSiguiente" Clicked="btnSiguiente_Clicked"/>
+
+
+    </VerticalStackLayout>
+</ContentPage>

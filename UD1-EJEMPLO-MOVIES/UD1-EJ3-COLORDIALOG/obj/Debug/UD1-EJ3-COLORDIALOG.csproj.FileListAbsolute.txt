@@ -1,0 +1,10 @@
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ3-COLORDIALOG\bin\Debug\UD1-EJ3-COLORDIALOG.exe.config
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ3-COLORDIALOG\bin\Debug\UD1-EJ3-COLORDIALOG.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ3-COLORDIALOG\bin\Debug\UD1-EJ3-COLORDIALOG.pdb
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ3-COLORDIALOG\obj\Debug\UD1-EJ3-COLORDIALOG.csproj.AssemblyReference.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ3-COLORDIALOG\obj\Debug\UD1_EJ3_COLORDIALOG.Form1.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ3-COLORDIALOG\obj\Debug\UD1_EJ3_COLORDIALOG.Properties.Resources.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ3-COLORDIALOG\obj\Debug\UD1-EJ3-COLORDIALOG.csproj.GenerateResource.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ3-COLORDIALOG\obj\Debug\UD1-EJ3-COLORDIALOG.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ3-COLORDIALOG\obj\Debug\UD1-EJ3-COLORDIALOG.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ3-COLORDIALOG\obj\Debug\UD1-EJ3-COLORDIALOG.pdb

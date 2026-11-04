@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UD2_EJERCICIO_COLORMAKER.MainPage"
+             >
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25"
+            x:Name="colorVSL">
+
+
+            <Border StrokeShape="RoundRectangle 10"
+                    HeightRequest="360"
+                    WidthRequest="300"
+                    BackgroundColor="White">
+                <VerticalStackLayout Padding="10" Spacing="5">
+                    <Label Text="Color Maker"
+                       FontSize="18"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"
+                    />
+                    <Label Text="red"
+                       FontSize="18"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Start"
+                    />
+                    <Slider Minimum="0" Maximum="255" ValueChanged="Slider_ValueChanged" x:Name="slred"/>
+                    <Label Text="Green"
+                           FontSize="18"
+                           FontAttributes="Bold"
+                           HorizontalTextAlignment="Start"
+                    />
+                    <Slider Minimum="0" Maximum="255" ValueChanged="Slider_ValueChanged" x:Name="slgreen"/>
+                    <Label Text="Blue"
+                           FontSize="18"
+                           FontAttributes="Bold"
+                           HorizontalTextAlignment="Start"
+                    />
+                    <Slider Minimum="0" Maximum="255" ValueChanged="Slider_ValueChanged" x:Name="slblue"/>
+                    <Border StrokeShape="RoundRectangle 22"
+                            HeightRequest="50"
+                            WidthRequest="210">
+                        <Label x:Name="lblcolorVSL"
+                               FontSize="16"
+                               HorizontalTextAlignment="Center"
+                               VerticalTextAlignment="Center"
+                        />
+                    </Border>
+                    <Button Text="Generar color aleatorio"
+                            x:Name="botonVSL"/>
+                </VerticalStackLayout>
+            </Border>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

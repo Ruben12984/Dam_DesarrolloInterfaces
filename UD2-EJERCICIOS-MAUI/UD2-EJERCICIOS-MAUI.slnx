@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="UD2-EJERCICIO-COLORMAKER/UD2-EJERCICIO-COLORMAKER.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="UD2-PIZZA/UD2-PIZZA.csproj" Id="43538cf0-39a3-46ef-baa7-824a70b21602">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>

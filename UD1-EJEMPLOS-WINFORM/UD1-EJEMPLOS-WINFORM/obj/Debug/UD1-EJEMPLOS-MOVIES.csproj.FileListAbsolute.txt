@@ -1,0 +1,9 @@
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORM\UD1-EJEMPLOS-WINFORM\bin\Debug\UD1-EJEMPLOS-WINFORM.exe.config
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORM\UD1-EJEMPLOS-WINFORM\bin\Debug\UD1-EJEMPLOS-WINFORM.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORM\UD1-EJEMPLOS-WINFORM\bin\Debug\UD1-EJEMPLOS-WINFORM.pdb
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORM\UD1-EJEMPLOS-WINFORM\obj\Debug\UD1-EJEMPLOS-MOVIES.csproj.AssemblyReference.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORM\UD1-EJEMPLOS-WINFORM\obj\Debug\UD1_EJEMPLOS_WINFORM.Properties.Resources.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORM\UD1-EJEMPLOS-WINFORM\obj\Debug\UD1-EJEMPLOS-MOVIES.csproj.GenerateResource.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORM\UD1-EJEMPLOS-WINFORM\obj\Debug\UD1-EJEMPLOS-MOVIES.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORM\UD1-EJEMPLOS-WINFORM\obj\Debug\UD1-EJEMPLOS-WINFORM.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORM\UD1-EJEMPLOS-WINFORM\obj\Debug\UD1-EJEMPLOS-WINFORM.pdb

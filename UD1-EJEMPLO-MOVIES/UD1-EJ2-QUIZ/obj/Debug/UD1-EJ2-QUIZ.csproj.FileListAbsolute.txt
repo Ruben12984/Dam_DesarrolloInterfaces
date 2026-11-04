@@ -1,0 +1,10 @@
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ2-QUIZ\bin\Debug\UD1-EJ2-QUIZ.exe.config
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ2-QUIZ\bin\Debug\UD1-EJ2-QUIZ.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ2-QUIZ\bin\Debug\UD1-EJ2-QUIZ.pdb
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ2-QUIZ\obj\Debug\UD1-EJ2-QUIZ.csproj.AssemblyReference.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ2-QUIZ\obj\Debug\UD1_EJ2_QUIZ.Properties.Resources.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ2-QUIZ\obj\Debug\UD1_EJ2_QUIZ.Quiz.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ2-QUIZ\obj\Debug\UD1-EJ2-QUIZ.csproj.GenerateResource.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ2-QUIZ\obj\Debug\UD1-EJ2-QUIZ.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ2-QUIZ\obj\Debug\UD1-EJ2-QUIZ.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ2-QUIZ\obj\Debug\UD1-EJ2-QUIZ.pdb

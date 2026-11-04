@@ -1,0 +1,10 @@
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJEMPLO-MOVIES\obj\Debug\UD1-EJEMPLO-MOVIES.csproj.AssemblyReference.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJEMPLO-MOVIES\obj\Debug\UD1_EJEMPLO_MOVIES.Properties.Resources.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJEMPLO-MOVIES\obj\Debug\UD1-EJEMPLO-MOVIES.csproj.GenerateResource.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJEMPLO-MOVIES\obj\Debug\UD1-EJEMPLO-MOVIES.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJEMPLO-MOVIES\bin\Debug\UD1-EJEMPLO-MOVIES.exe.config
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJEMPLO-MOVIES\bin\Debug\UD1-EJEMPLO-MOVIES.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJEMPLO-MOVIES\bin\Debug\UD1-EJEMPLO-MOVIES.pdb
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJEMPLO-MOVIES\obj\Debug\UD1-EJEMPLO-MOVIES.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJEMPLO-MOVIES\obj\Debug\UD1-EJEMPLO-MOVIES.pdb
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJEMPLO-MOVIES\obj\Debug\UD1_EJEMPLO_MOVIES.Movies.resources

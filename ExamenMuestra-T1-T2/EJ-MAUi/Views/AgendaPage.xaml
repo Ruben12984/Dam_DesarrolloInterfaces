@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EJ_MAUi.Views.AgendaPage"
+             Title="Mis deberes">
+    <Grid Padding="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        
+        <!--Formulario-->
+        <VerticalStackLayout Grid.Row="0" Spacing="10">
+            <HorizontalStackLayout>
+                <Image Source="splash.png" HeightRequest="50"/>
+                <Label Text="Agenda de deberes"
+                       FontSize="12"
+                       FontAttributes="Bold"
+                       VerticalOptions="Center"
+                       TextColor="Blue"/>
+            </HorizontalStackLayout>
+
+            <Entry Placeholder="Desceipcion corta" 
+                   x:Name="DescripcionEntry"/>
+
+            <Picker x:Name="ModuloPicker">
+                <Picker.ItemsSource>
+                    <x:Array Type="{x:Type x:String}" >
+                        <x:String>Desarrollo de interfaces</x:String>
+                        <x:String>Acceso a datos</x:String>
+                        <x:String>Sistema de gestion empresarial</x:String>
+                    </x:Array>
+                </Picker.ItemsSource>
+            </Picker>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

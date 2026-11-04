@@ -1,0 +1,10 @@
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ5A-DATABINDING\bin\Debug\UD1-EJ5A-DATABINDING.exe.config
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ5A-DATABINDING\bin\Debug\UD1-EJ5A-DATABINDING.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ5A-DATABINDING\bin\Debug\UD1-EJ5A-DATABINDING.pdb
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ5A-DATABINDING\obj\Debug\UD1-EJ5A-DATABINDING.csproj.AssemblyReference.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ5A-DATABINDING\obj\Debug\UD1_EJ5A_DATABINDING.Form1.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ5A-DATABINDING\obj\Debug\UD1_EJ5A_DATABINDING.Properties.Resources.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ5A-DATABINDING\obj\Debug\UD1-EJ5A-DATABINDING.csproj.GenerateResource.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ5A-DATABINDING\obj\Debug\UD1-EJ5A-DATABINDING.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ5A-DATABINDING\obj\Debug\UD1-EJ5A-DATABINDING.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ5A-DATABINDING\obj\Debug\UD1-EJ5A-DATABINDING.pdb

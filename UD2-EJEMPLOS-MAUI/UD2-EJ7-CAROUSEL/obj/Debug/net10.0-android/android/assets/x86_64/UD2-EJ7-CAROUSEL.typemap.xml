@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="UD2-EJ7-CAROUSEL" mvid="d157b90fb71c4533893059de1aabadb8">
+  <java-to-managed>
+    <entry java-name="crc6493250a7cd19892f4/MainActivity" managed-name="UD2_EJ7_CAROUSEL.MainActivity, UD2-EJ7-CAROUSEL" managed-type-token-id="33554441" />
+    <entry java-name="crc6493250a7cd19892f4/MainApplication" managed-name="UD2_EJ7_CAROUSEL.MainApplication, UD2-EJ7-CAROUSEL" managed-type-token-id="33554442" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc6493250a7cd19892f4/MainActivity" managed-name="UD2_EJ7_CAROUSEL.MainActivity, UD2-EJ7-CAROUSEL" managed-type-token-id="33554441" />
+    <entry java-name="crc6493250a7cd19892f4/MainApplication" managed-name="UD2_EJ7_CAROUSEL.MainApplication, UD2-EJ7-CAROUSEL" managed-type-token-id="33554442" />
+  </managed-to-java>
+</api>

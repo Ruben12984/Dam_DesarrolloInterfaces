@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="UD2-EJ1-MAUI" mvid="0d1bdbf4b45c4149954a28fa3dd9c488">
+  <java-to-managed>
+    <entry java-name="crc645a2ee50e90111217/MainActivity" managed-name="UD2_EJ1_MAUI.MainActivity, UD2-EJ1-MAUI" managed-type-token-id="33554442" />
+    <entry java-name="crc645a2ee50e90111217/MainApplication" managed-name="UD2_EJ1_MAUI.MainApplication, UD2-EJ1-MAUI" managed-type-token-id="33554443" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc645a2ee50e90111217/MainActivity" managed-name="UD2_EJ1_MAUI.MainActivity, UD2-EJ1-MAUI" managed-type-token-id="33554442" />
+    <entry java-name="crc645a2ee50e90111217/MainApplication" managed-name="UD2_EJ1_MAUI.MainApplication, UD2-EJ1-MAUI" managed-type-token-id="33554443" />
+  </managed-to-java>
+</api>

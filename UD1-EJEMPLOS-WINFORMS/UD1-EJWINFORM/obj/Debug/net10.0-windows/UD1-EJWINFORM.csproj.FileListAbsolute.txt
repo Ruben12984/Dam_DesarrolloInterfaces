@@ -1,0 +1,17 @@
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\bin\Debug\net10.0-windows\UD1-EJWINFORM.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\bin\Debug\net10.0-windows\UD1-EJWINFORM.deps.json
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\bin\Debug\net10.0-windows\UD1-EJWINFORM.runtimeconfig.json
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\bin\Debug\net10.0-windows\UD1-EJWINFORM.dll
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\bin\Debug\net10.0-windows\UD1-EJWINFORM.pdb
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\obj\Debug\net10.0-windows\UD1_EJWINFORM.Form1.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\obj\Debug\net10.0-windows\UD1-EJWINFORM.csproj.GenerateResource.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\obj\Debug\net10.0-windows\UD1-EJWINFORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\obj\Debug\net10.0-windows\UD1-EJWINFORM.AssemblyInfoInputs.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\obj\Debug\net10.0-windows\UD1-EJWINFORM.AssemblyInfo.cs
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\obj\Debug\net10.0-windows\UD1-EJWINFORM.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\obj\Debug\net10.0-windows\UD1-EJWINFORM.dll
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\obj\Debug\net10.0-windows\refint\UD1-EJWINFORM.dll
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\obj\Debug\net10.0-windows\UD1-EJWINFORM.pdb
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\obj\Debug\net10.0-windows\UD1-EJWINFORM.genruntimeconfig.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\obj\Debug\net10.0-windows\ref\UD1-EJWINFORM.dll
+C:\Users\Rubén\source\repos\UD1-EJEMPLOS-WINFORMS\UD1-EJWINFORM\obj\Debug\net10.0-windows\UD1-EJWI.1F306519.Up2Date

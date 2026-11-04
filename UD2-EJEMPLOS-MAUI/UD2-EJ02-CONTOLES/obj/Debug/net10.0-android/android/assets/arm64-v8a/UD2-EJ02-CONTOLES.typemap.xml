@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="UD2-EJ02-CONTOLES" mvid="5dacc0ac3eef4fc99b6985cb4a2264a1">
+  <java-to-managed>
+    <entry java-name="crc64c0c7d60c9f66426e/MainActivity" managed-name="UD2_EJ02_CONTOLES.MainActivity, UD2-EJ02-CONTOLES" managed-type-token-id="33554442" />
+    <entry java-name="crc64c0c7d60c9f66426e/MainApplication" managed-name="UD2_EJ02_CONTOLES.MainApplication, UD2-EJ02-CONTOLES" managed-type-token-id="33554443" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc64c0c7d60c9f66426e/MainActivity" managed-name="UD2_EJ02_CONTOLES.MainActivity, UD2-EJ02-CONTOLES" managed-type-token-id="33554442" />
+    <entry java-name="crc64c0c7d60c9f66426e/MainApplication" managed-name="UD2_EJ02_CONTOLES.MainApplication, UD2-EJ02-CONTOLES" managed-type-token-id="33554443" />
+  </managed-to-java>
+</api>

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLOS-WINFORM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAD30AB2-6B16-411D-990C-4B4650AC5F58}|UD1-EJEMPLOS-WINFORM\\UD1-EJEMPLOS-MOVIES.csproj|c:\\users\\rub\u00E9n\\source\\repos\\ud1-ejemplos-winform\\ud1-ejemplos-winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAD30AB2-6B16-411D-990C-4B4650AC5F58}|UD1-EJEMPLOS-WINFORM\\UD1-EJEMPLOS-MOVIES.csproj|solutionrelative:ud1-ejemplos-winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLOS-WINFORM\\UD1-EJEMPLOS-WINFORM\\Form1.cs",
+              "RelativeDocumentMoniker": "UD1-EJEMPLOS-WINFORM\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLOS-WINFORM\\UD1-EJEMPLOS-WINFORM\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UD1-EJEMPLOS-WINFORM\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T15:46:53.039Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

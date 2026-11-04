@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\UD2-EJEMPLOS-MAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04281A32-35D8-4F32-B4F5-95FB504E7198}|UD2-EJ7-CAROUSEL\\UD2-EJ7-CAROUSEL.csproj|c:\\repos\\ud2-ejemplos-maui\\ud2-ej7-carousel\\views\\carouselpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04281A32-35D8-4F32-B4F5-95FB504E7198}|UD2-EJ7-CAROUSEL\\UD2-EJ7-CAROUSEL.csproj|solutionrelative:ud2-ej7-carousel\\views\\carouselpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04281A32-35D8-4F32-B4F5-95FB504E7198}|UD2-EJ7-CAROUSEL\\UD2-EJ7-CAROUSEL.csproj|c:\\repos\\ud2-ejemplos-maui\\ud2-ej7-carousel\\views\\carouselpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{04281A32-35D8-4F32-B4F5-95FB504E7198}|UD2-EJ7-CAROUSEL\\UD2-EJ7-CAROUSEL.csproj|solutionrelative:ud2-ej7-carousel\\views\\carouselpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04281A32-35D8-4F32-B4F5-95FB504E7198}|UD2-EJ7-CAROUSEL\\UD2-EJ7-CAROUSEL.csproj|c:\\repos\\ud2-ejemplos-maui\\ud2-ej7-carousel\\models\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04281A32-35D8-4F32-B4F5-95FB504E7198}|UD2-EJ7-CAROUSEL\\UD2-EJ7-CAROUSEL.csproj|solutionrelative:ud2-ej7-carousel\\models\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarouselPage.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\UD2-EJEMPLOS-MAUI\\UD2-EJ7-CAROUSEL\\Views\\CarouselPage.xaml.cs",
+              "RelativeDocumentMoniker": "UD2-EJ7-CAROUSEL\\Views\\CarouselPage.xaml.cs",
+              "ToolTip": "C:\\repos\\UD2-EJEMPLOS-MAUI\\UD2-EJ7-CAROUSEL\\Views\\CarouselPage.xaml.cs",
+              "RelativeToolTip": "UD2-EJ7-CAROUSEL\\Views\\CarouselPage.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T15:16:49.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Toy.cs",
+              "DocumentMoniker": "C:\\repos\\UD2-EJEMPLOS-MAUI\\UD2-EJ7-CAROUSEL\\Models\\Toy.cs",
+              "RelativeDocumentMoniker": "UD2-EJ7-CAROUSEL\\Models\\Toy.cs",
+              "ToolTip": "C:\\repos\\UD2-EJEMPLOS-MAUI\\UD2-EJ7-CAROUSEL\\Models\\Toy.cs",
+              "RelativeToolTip": "UD2-EJ7-CAROUSEL\\Models\\Toy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T15:11:34.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarouselPage.xaml",
+              "DocumentMoniker": "C:\\repos\\UD2-EJEMPLOS-MAUI\\UD2-EJ7-CAROUSEL\\Views\\CarouselPage.xaml",
+              "RelativeDocumentMoniker": "UD2-EJ7-CAROUSEL\\Views\\CarouselPage.xaml",
+              "ToolTip": "C:\\repos\\UD2-EJEMPLOS-MAUI\\UD2-EJ7-CAROUSEL\\Views\\CarouselPage.xaml",
+              "RelativeToolTip": "UD2-EJ7-CAROUSEL\\Views\\CarouselPage.xaml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-22T14:50:17.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

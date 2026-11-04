@@ -1,0 +1,16 @@
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\bin\Debug\UD1-EJ6-SECONDFORM.exe.config
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\bin\Debug\UD1-EJ6-SECONDFORM.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\bin\Debug\UD1-EJ6-SECONDFORM.pdb
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\obj\Debug\UD1-EJ6-SECONDFORM.csproj.AssemblyReference.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\obj\Debug\UD1_EJ6_SECONDFORM.FormStudent.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\obj\Debug\UD1_EJ6_SECONDFORM.MainForm.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\obj\Debug\UD1_EJ6_SECONDFORM.NewTeacher.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\obj\Debug\UD1_EJ6_SECONDFORM.Properties.Resources.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\obj\Debug\UD1-EJ6-SECONDFORM.csproj.GenerateResource.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\obj\Debug\UD1-EJ6-SECONDFORM.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\obj\Debug\UD1-EJ6-SECONDFORM.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\obj\Debug\UD1-EJ6-SECONDFORM.pdb
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\bin\Debug\UD1-EJ5A-DATABINDING.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\bin\Debug\UD1-EJ5A-DATABINDING.pdb
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\bin\Debug\UD1-EJ5A-DATABINDING.exe.config
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ6-SECONDFORM\obj\Debug\UD1-EJ6-.48C741CD.Up2Date

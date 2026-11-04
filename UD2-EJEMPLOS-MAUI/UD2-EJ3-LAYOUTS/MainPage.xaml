@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UD2_EJ3_LAYOUTS.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout>
+            <FlexLayout Direction="Row" Wrap="Wrap"
+            AlignItems="Center">
+                <BoxView Color="Green" WidthRequest="150"
+                     HeightRequest="150" />
+                <BoxView Color="Red" WidthRequest="150"
+                     HeightRequest="150" />
+                <BoxView Color="Blue" WidthRequest="150"
+                     HeightRequest="150" />
+                <BoxView Color="Yellow" WidthRequest="150"
+                     HeightRequest="150" />
+
+            </FlexLayout>
+
+            <Label Text="absolute layout cinema"/>
+        
+            <AbsoluteLayout Margin="40">
+                <BoxView Color="Red"
+                         AbsoluteLayout.LayoutFlags="None"
+                         AbsoluteLayout.LayoutBounds="0, 0, 100, 100"
+                         Rotation="30" />
+                <BoxView Color="Green"
+                         AbsoluteLayout.LayoutFlags="None"
+                         AbsoluteLayout.LayoutBounds="150, 0, 100, 100"
+                         Rotation="60" />
+                <BoxView Color="Blue"
+                         AbsoluteLayout.LayoutFlags="None"
+                         AbsoluteLayout.LayoutBounds="0, 150, 100, 100" 
+                         Rotation="135"/>
+                <BoxView Color="Yellow"
+                         AbsoluteLayout.LayoutFlags="None"
+                         AbsoluteLayout.LayoutBounds="150, 150, 100, 100" 
+                         Rotation="15"/>
+            </AbsoluteLayout>
+            
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -1,0 +1,10 @@
+C:\repos\ExamenMuestra-T1-T2\EJ-WF\bin\Debug\EJ-WF.exe.config
+C:\repos\ExamenMuestra-T1-T2\EJ-WF\bin\Debug\EJ-WF.exe
+C:\repos\ExamenMuestra-T1-T2\EJ-WF\bin\Debug\EJ-WF.pdb
+C:\repos\ExamenMuestra-T1-T2\EJ-WF\obj\Debug\EJ-WF.csproj.AssemblyReference.cache
+C:\repos\ExamenMuestra-T1-T2\EJ-WF\obj\Debug\EJ_WF.Form1.resources
+C:\repos\ExamenMuestra-T1-T2\EJ-WF\obj\Debug\EJ_WF.Properties.Resources.resources
+C:\repos\ExamenMuestra-T1-T2\EJ-WF\obj\Debug\EJ-WF.csproj.GenerateResource.cache
+C:\repos\ExamenMuestra-T1-T2\EJ-WF\obj\Debug\EJ-WF.csproj.CoreCompileInputs.cache
+C:\repos\ExamenMuestra-T1-T2\EJ-WF\obj\Debug\EJ-WF.exe
+C:\repos\ExamenMuestra-T1-T2\EJ-WF\obj\Debug\EJ-WF.pdb

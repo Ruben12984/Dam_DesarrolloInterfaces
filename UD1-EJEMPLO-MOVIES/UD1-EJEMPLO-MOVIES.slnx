@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="UD1-EJ2-QUIZ/UD1-EJ2-QUIZ.csproj" Id="d7c43a0a-f055-4cc5-928c-6ea9f47707c6" />
+  <Project Path="UD1-EJ3-COLORDIALOG/UD1-EJ3-COLORDIALOG.csproj" Id="e594e679-5b25-44aa-94df-5109940d0bba" />
+  <Project Path="UD1-EJ4-SAVEDIALOGO/UD1-EJ4-SAVEDIALOGO.csproj" Id="b6f1f485-2545-4bef-b56f-b8085be4ae22" />
+  <Project Path="UD1-EJ5A-DATABINDING/UD1-EJ5A-DATABINDING.csproj" Id="8b5c6d9c-a90c-45f6-805f-bd513cec3c13" />
+  <Project Path="UD1-EJ6-SECONDFORM/UD1-EJ6-SECONDFORM.csproj" Id="3051ca2a-991a-4743-a714-01d2e1316fc7" />
+  <Project Path="UD1-EJEMPLO-MOVIES/UD1-EJEMPLO-MOVIES.csproj" Id="fe0f72f7-bbd6-4a41-a954-722d08b43c62" />
+</Solution>

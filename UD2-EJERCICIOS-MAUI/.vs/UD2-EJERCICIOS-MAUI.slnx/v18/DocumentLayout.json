@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\UD2-EJERCICIOS-MAUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|c:\\repos\\ud2-ejercicios-maui\\ud2-pizza\\views\\confirmarpedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|solutionrelative:ud2-pizza\\views\\confirmarpedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|c:\\repos\\ud2-ejercicios-maui\\ud2-pizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|solutionrelative:ud2-pizza\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|c:\\repos\\ud2-ejercicios-maui\\ud2-pizza\\views\\personalizarpizza.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|solutionrelative:ud2-pizza\\views\\personalizarpizza.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|c:\\repos\\ud2-ejercicios-maui\\ud2-pizza\\views\\personalizarpizza.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|solutionrelative:ud2-pizza\\views\\personalizarpizza.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|c:\\repos\\ud2-ejercicios-maui\\ud2-pizza\\views\\seleccionarpizza.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|solutionrelative:ud2-pizza\\views\\seleccionarpizza.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|c:\\repos\\ud2-ejercicios-maui\\ud2-pizza\\views\\seleccionarpizza.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|solutionrelative:ud2-pizza\\views\\seleccionarpizza.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|c:\\repos\\ud2-ejercicios-maui\\ud2-pizza\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|solutionrelative:ud2-pizza\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|c:\\repos\\ud2-ejercicios-maui\\ud2-pizza\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43538CF0-39A3-46EF-BAA7-824A70B21602}|UD2-PIZZA\\UD2-PIZZA.csproj|solutionrelative:ud2-pizza\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonalizarPizza.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\Views\\PersonalizarPizza.xaml.cs",
+              "RelativeDocumentMoniker": "UD2-PIZZA\\Views\\PersonalizarPizza.xaml.cs",
+              "ToolTip": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\Views\\PersonalizarPizza.xaml.cs",
+              "RelativeToolTip": "UD2-PIZZA\\Views\\PersonalizarPizza.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T17:13:25.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "UD2-PIZZA\\Models\\Pizza.cs",
+              "ToolTip": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\Models\\Pizza.cs",
+              "RelativeToolTip": "UD2-PIZZA\\Models\\Pizza.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T16:17:09.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeleccionarPizza.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\Views\\SeleccionarPizza.xaml.cs",
+              "RelativeDocumentMoniker": "UD2-PIZZA\\Views\\SeleccionarPizza.xaml.cs",
+              "ToolTip": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\Views\\SeleccionarPizza.xaml.cs",
+              "RelativeToolTip": "UD2-PIZZA\\Views\\SeleccionarPizza.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:17:41.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeleccionarPizza.xaml",
+              "DocumentMoniker": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\Views\\SeleccionarPizza.xaml",
+              "RelativeDocumentMoniker": "UD2-PIZZA\\Views\\SeleccionarPizza.xaml",
+              "ToolTip": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\Views\\SeleccionarPizza.xaml",
+              "RelativeToolTip": "UD2-PIZZA\\Views\\SeleccionarPizza.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-26T18:01:54.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "UD2-PIZZA\\AppShell.xaml.cs",
+              "ToolTip": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\AppShell.xaml.cs",
+              "RelativeToolTip": "UD2-PIZZA\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T21:12:38.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfirmarPedido.xaml",
+              "DocumentMoniker": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\Views\\ConfirmarPedido.xaml",
+              "RelativeDocumentMoniker": "UD2-PIZZA\\Views\\ConfirmarPedido.xaml",
+              "ToolTip": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\Views\\ConfirmarPedido.xaml",
+              "RelativeToolTip": "UD2-PIZZA\\Views\\ConfirmarPedido.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-28T20:57:25.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonalizarPizza.xaml",
+              "DocumentMoniker": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\Views\\PersonalizarPizza.xaml",
+              "RelativeDocumentMoniker": "UD2-PIZZA\\Views\\PersonalizarPizza.xaml",
+              "ToolTip": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\Views\\PersonalizarPizza.xaml",
+              "RelativeToolTip": "UD2-PIZZA\\Views\\PersonalizarPizza.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwCUAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-26T18:20:39.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\AppShell.xaml",
+              "RelativeDocumentMoniker": "UD2-PIZZA\\AppShell.xaml",
+              "ToolTip": "C:\\repos\\UD2-EJERCICIOS-MAUI\\UD2-PIZZA\\AppShell.xaml",
+              "RelativeToolTip": "UD2-PIZZA\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-26T17:59:10.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

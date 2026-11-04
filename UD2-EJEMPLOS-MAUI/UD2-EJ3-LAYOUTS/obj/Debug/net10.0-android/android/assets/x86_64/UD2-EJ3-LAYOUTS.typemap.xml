@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="UD2-EJ3-LAYOUTS" mvid="ddb558293c4a4b29941a2c0b1920628d">
+  <java-to-managed>
+    <entry java-name="crc648b95ac2e06367708/MainActivity" managed-name="UD2_EJ3_LAYOUTS.MainActivity, UD2-EJ3-LAYOUTS" managed-type-token-id="33554442" />
+    <entry java-name="crc648b95ac2e06367708/MainApplication" managed-name="UD2_EJ3_LAYOUTS.MainApplication, UD2-EJ3-LAYOUTS" managed-type-token-id="33554443" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc648b95ac2e06367708/MainActivity" managed-name="UD2_EJ3_LAYOUTS.MainActivity, UD2-EJ3-LAYOUTS" managed-type-token-id="33554442" />
+    <entry java-name="crc648b95ac2e06367708/MainApplication" managed-name="UD2_EJ3_LAYOUTS.MainApplication, UD2-EJ3-LAYOUTS" managed-type-token-id="33554443" />
+  </managed-to-java>
+</api>

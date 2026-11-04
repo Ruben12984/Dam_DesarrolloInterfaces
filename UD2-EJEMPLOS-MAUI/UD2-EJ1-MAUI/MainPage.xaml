@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UD2_EJ1_MAUI.MainPage"
+             BackgroundColor="LightPink">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25"
+            Margin="10,80">
+           
+            <!--CREACIÓN DE UN FORMULARIO DE UDUARIO-->
+            <Label Text="Por favor introduce tus credenciales"
+                   TextColor="DimGrey"
+                   FontSize="20"
+                   />
+
+            <Label Text="Usuario:" 
+                   TextColor="White"
+                   FontSize="10"
+                   />
+            <Entry Placeholder="Escriba su usuario"
+                   PlaceholderColor="Black"
+                   />
+            
+            <Label Text="Contraseña:" 
+                   TextColor="White"
+                   FontSize="10"
+                   />       
+            <Entry Placeholder="Escriba su contraseña"
+                    PlaceholderColor="Black"
+                    />
+            <Button 
+                Text="Entrar" x:Name="BtnSend"
+                Clicked="BtnSend_Clicked"
+                BackgroundColor="ForestGreen"
+                TextColor="White"
+                WidthRequest="100" HeightRequest="50"
+                HorizontalOptions="Start"
+                />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

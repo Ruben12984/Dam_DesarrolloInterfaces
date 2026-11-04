@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UD2_PIZZA.Views.ConfirmarPedido"
+             Title="Confirmar tu Pedido"
+             BackgroundColor="Beige">
+    <VerticalStackLayout HorizontalOptions="Center">
+        <Image Source="moto.png" Margin="50" WidthRequest="300"/>
+        <Label Text="Fecha de entrega de la pizza"/>
+        <DatePicker x:Name="DateFecha"/>
+
+        <HorizontalStackLayout Spacing="15">
+            <Button Text="Volver" WidthRequest="70" HorizontalOptions="Start" Clicked="Btn_volver_clicker"/>
+            <Button Text="Confirmar" WidthRequest="100" HorizontalOptions="Start" Clicked="Btn_Confirmar_clicker"/>
+        </HorizontalStackLayout>
+
+    </VerticalStackLayout>
+</ContentPage>

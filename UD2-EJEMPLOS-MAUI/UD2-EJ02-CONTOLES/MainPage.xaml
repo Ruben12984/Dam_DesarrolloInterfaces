@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UD2_EJ02_CONTOLES.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="25">
+
+            <!--CONTROL BORDE-->
+
+            <Label Text="CONTROL BORDE"
+           FontSize="12"
+           FontAttributes="Bold" 
+    />
+
+            <Border Stroke="Orange"
+            StrokeThickness="5"
+            StrokeShape="RoundRectangle 10,0,0,40"
+            BackgroundColor="#2B0B98"
+    >
+                <Label Text="TEMA 2 .NET MAUI"
+               FontSize="18"
+               FontAttributes="Bold"
+               TextColor="White"
+        />
+            </Border>
+
+            <!--CONTROL BOXVIEW-->
+            <Label Text="CONTROL VIEW"
+           FontSize="12"
+           FontAttributes="Bold"
+    />
+
+            <BoxView Color="DarkRed"
+             WidthRequest="400"
+             HeightRequest="20"
+    />
+
+            <!--CONTROL FECHA-->
+            <Label Text="CONTROL FECHA"
+           FontSize="12"
+           FontAttributes="Bold"
+    />
+
+            <DatePicker MinimumDate="01/01/2025"
+                MaximumDate="12/31/2025"
+                Date="06/01/2025"
+    />
+
+            <!--CONTROL FRAME: OBSOLETO, SE SUSTITUYE POR EL BORDER-->
+            <Label Text="CONTROL FRAME"
+           FontSize="12"
+           FontAttributes="Bold"
+    />
+
+            <Frame CornerRadius="10" 
+           BackgroundColor="#2B0B98"
+    >
+                <Label Text="TEMA 2 .NET MAUI"
+               FontSize="18"
+               FontAttributes="Bold"
+               TextColor="White"
+        />
+            </Frame>
+
+            <!--CONTROL EDITOR-->
+            <Label Text="CONTROL EDITOR"
+           FontSize="12"
+           FontAttributes="Bold"
+    />
+
+            <Editor BackgroundColor="Aqua"
+            Placeholder="ESCRIBE TU COMENTARIO AQUÍ"
+            HeightRequest="100"
+    />
+
+            <!--CONTROL ACTIVIDAD-->
+            <Label Text="CONTROL ACTIVIDAD"
+           FontSize="12"
+           FontAttributes="Bold"
+    />
+
+            <ActivityIndicator IsRunning="True"
+                       HorizontalOptions="Start"
+                       Color="Red"
+    />
+
+            <!--CONTROL IMAGEN Y BOTON DE IMAGEN-->
+            <Label Text="CONTROL IMAGEN U BOTON IMAGEN"
+           FontSize="12"
+           FontAttributes="Bold"
+    />
+
+            <Image Source="dotnet_bot.png"
+           WidthRequest="500"
+           HeightRequest="400"
+           Aspect="AspectFit"
+    />
+
+            <ImageButton Source="dotnet_bot.png"
+           WidthRequest="500"
+           HeightRequest="400"
+           Aspect="AspectFit"
+           Clicked="ImageButton_Clicked"
+    />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

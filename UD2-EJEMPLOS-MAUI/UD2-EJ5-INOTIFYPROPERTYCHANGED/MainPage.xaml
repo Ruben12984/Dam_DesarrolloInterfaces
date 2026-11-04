@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UD2_EJ5_INOTIFYPROPERTYCHANGED.MainPage"
+             Title="INOTIFYPROPERTYCHANGED">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <!--PRIMER BLOQUE: NOMBRE DEL USUARIO-->
+            <HorizontalStackLayout Spacing="10" 
+                                   Padding="10,30"
+                                   BackgroundColor="Beige">
+                <Label Text="Nombre:" 
+                       Margin="0,10,0,0" />
+                <Entry Text="{Binding Name, Mode=TwoWay}" 
+                       WidthRequest="200"/>
+
+            </HorizontalStackLayout>
+
+  
+            <!--SEGUNDO BLOQUE: APELLIDOS DEL USUARIO-->
+            <HorizontalStackLayout Spacing="10" 
+                                   Padding="10,30"
+                                   BackgroundColor="Silver">
+                <Label Text="Apellido:" 
+                       Margin="0,10,0,0" />
+                <Entry Text="{Binding LastName, Mode=TwoWay}" 
+                       WidthRequest="200"/>
+
+            </HorizontalStackLayout>
+            <!--TERCER BLOQUE: NOMBRE DEL USUARIO-->
+            <HorizontalStackLayout Spacing="10" 
+                                   Padding="10,30"
+                                   BackgroundColor="Gold">
+                <Label Text="NOMBRE COMPLETO:" 
+                       Margin="0,10,0,0" />
+                <Entry Text="{Binding FullName, Mode=TwoWay}" 
+                       WidthRequest="200"/>
+
+            </HorizontalStackLayout>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

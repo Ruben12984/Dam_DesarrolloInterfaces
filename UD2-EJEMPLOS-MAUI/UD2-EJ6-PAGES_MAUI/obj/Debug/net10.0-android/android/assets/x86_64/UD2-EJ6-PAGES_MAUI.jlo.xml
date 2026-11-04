@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64c416f2b82026df95" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="UD2_EJ6_PAGES_MAUI.MainActivity, UD2-EJ6-PAGES_MAUI">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc64c416f2b82026df95" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="UD2_EJ6_PAGES_MAUI.MainApplication, UD2-EJ6-PAGES_MAUI" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="UD2-EJ6-PAGES_MAUI" module-name="UD2-EJ6-PAGES_MAUI.dll">
+    <type assembly-qualified-name="UD2_EJ6_PAGES_MAUI.MainActivity, UD2-EJ6-PAGES_MAUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="ud2_ej6_pages_maui.MainActivity" java-key="crc64c416f2b82026df95.MainActivity" managed-key="UD2_EJ6_PAGES_MAUI.MainActivity" partial-assembly-qualified-name="UD2_EJ6_PAGES_MAUI.MainActivity, UD2-EJ6-PAGES_MAUI" />
+    <type assembly-qualified-name="UD2_EJ6_PAGES_MAUI.MainApplication, UD2-EJ6-PAGES_MAUI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="ud2_ej6_pages_maui.MainApplication" java-key="crc64c416f2b82026df95.MainApplication" managed-key="UD2_EJ6_PAGES_MAUI.MainApplication" partial-assembly-qualified-name="UD2_EJ6_PAGES_MAUI.MainApplication, UD2-EJ6-PAGES_MAUI" />
+  </acw-types>
+</api>

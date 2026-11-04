@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UD2-EJEMPLOS-MAUI/UD2-EJ02-CONTOLES/UD2-EJ02-CONTOLES.iml" filepath="$PROJECT_DIR$/UD2-EJEMPLOS-MAUI/UD2-EJ02-CONTOLES/UD2-EJ02-CONTOLES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UD2-EJEMPLOS-MAUI/UD2-EJ1-MAUI/UD2-EJ1-MAUI.iml" filepath="$PROJECT_DIR$/UD2-EJEMPLOS-MAUI/UD2-EJ1-MAUI/UD2-EJ1-MAUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/repos.iml" filepath="$PROJECT_DIR$/.idea/repos.iml" />
+    </modules>
+  </component>
+</project>

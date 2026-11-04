@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="UD2-EJ6-PAGES_MAUI.app/Contents\MacOS\">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>UD2-EJ6-PAGES_MAUI.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile></SymbolFile>
+      <DSymName>UD2-EJ6-PAGES_MAUI.app.dSYM</DSymName>
+      <SourceProjectPath>C:\repos\UD2-EJEMPLOS-MAUI\UD2-EJ6-PAGES_MAUI</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

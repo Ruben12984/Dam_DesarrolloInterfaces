@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="UD2-EJ4-BINDING" mvid="8331910cb6664e469a4bc8b64fccecbb">
+  <java-to-managed>
+    <entry java-name="crc641a8819797eb9517d/MainActivity" managed-name="UD2_EJ4_BINDING.MainActivity, UD2-EJ4-BINDING" managed-type-token-id="33554442" />
+    <entry java-name="crc641a8819797eb9517d/MainApplication" managed-name="UD2_EJ4_BINDING.MainApplication, UD2-EJ4-BINDING" managed-type-token-id="33554443" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc641a8819797eb9517d/MainActivity" managed-name="UD2_EJ4_BINDING.MainActivity, UD2-EJ4-BINDING" managed-type-token-id="33554442" />
+    <entry java-name="crc641a8819797eb9517d/MainApplication" managed-name="UD2_EJ4_BINDING.MainApplication, UD2-EJ4-BINDING" managed-type-token-id="33554443" />
+  </managed-to-java>
+</api>

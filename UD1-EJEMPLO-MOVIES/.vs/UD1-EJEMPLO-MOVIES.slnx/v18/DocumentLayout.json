@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3051CA2A-991A-4743-A714-01D2E1316FC7}|UD1-EJ6-SECONDFORM\\UD1-EJ6-SECONDFORM.csproj|c:\\users\\rub\u00E9n\\source\\repos\\ud1-ejemplo-movies\\ud1-ej6-secondform\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3051CA2A-991A-4743-A714-01D2E1316FC7}|UD1-EJ6-SECONDFORM\\UD1-EJ6-SECONDFORM.csproj|solutionrelative:ud1-ej6-secondform\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051CA2A-991A-4743-A714-01D2E1316FC7}|UD1-EJ6-SECONDFORM\\UD1-EJ6-SECONDFORM.csproj|c:\\users\\rub\u00E9n\\source\\repos\\ud1-ejemplo-movies\\ud1-ej6-secondform\\newteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3051CA2A-991A-4743-A714-01D2E1316FC7}|UD1-EJ6-SECONDFORM\\UD1-EJ6-SECONDFORM.csproj|solutionrelative:ud1-ej6-secondform\\newteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051CA2A-991A-4743-A714-01D2E1316FC7}|UD1-EJ6-SECONDFORM\\UD1-EJ6-SECONDFORM.csproj|c:\\users\\rub\u00E9n\\source\\repos\\ud1-ejemplo-movies\\ud1-ej6-secondform\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{3051CA2A-991A-4743-A714-01D2E1316FC7}|UD1-EJ6-SECONDFORM\\UD1-EJ6-SECONDFORM.csproj|solutionrelative:ud1-ej6-secondform\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051CA2A-991A-4743-A714-01D2E1316FC7}|UD1-EJ6-SECONDFORM\\UD1-EJ6-SECONDFORM.csproj|c:\\users\\rub\u00E9n\\source\\repos\\ud1-ejemplo-movies\\ud1-ej6-secondform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3051CA2A-991A-4743-A714-01D2E1316FC7}|UD1-EJ6-SECONDFORM\\UD1-EJ6-SECONDFORM.csproj|solutionrelative:ud1-ej6-secondform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3051CA2A-991A-4743-A714-01D2E1316FC7}|UD1-EJ6-SECONDFORM\\UD1-EJ6-SECONDFORM.csproj|c:\\users\\rub\u00E9n\\source\\repos\\ud1-ejemplo-movies\\ud1-ej6-secondform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3051CA2A-991A-4743-A714-01D2E1316FC7}|UD1-EJ6-SECONDFORM\\UD1-EJ6-SECONDFORM.csproj|solutionrelative:ud1-ej6-secondform\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C6D9C-A90C-45F6-805F-BD513CEC3C13}|UD1-EJ5A-DATABINDING\\UD1-EJ5A-DATABINDING.csproj|c:\\users\\rub\u00E9n\\source\\repos\\ud1-ejemplo-movies\\ud1-ej5a-databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5C6D9C-A90C-45F6-805F-BD513CEC3C13}|UD1-EJ5A-DATABINDING\\UD1-EJ5A-DATABINDING.csproj|solutionrelative:ud1-ej5a-databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C6D9C-A90C-45F6-805F-BD513CEC3C13}|UD1-EJ5A-DATABINDING\\UD1-EJ5A-DATABINDING.csproj|C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\ud1-ej5a-databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B5C6D9C-A90C-45F6-805F-BD513CEC3C13}|UD1-EJ5A-DATABINDING\\UD1-EJ5A-DATABINDING.csproj|solutionrelative:ud1-ej5a-databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5C6D9C-A90C-45F6-805F-BD513CEC3C13}|UD1-EJ5A-DATABINDING\\UD1-EJ5A-DATABINDING.csproj|C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\ud1-ej5a-databinding\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5C6D9C-A90C-45F6-805F-BD513CEC3C13}|UD1-EJ5A-DATABINDING\\UD1-EJ5A-DATABINDING.csproj|solutionrelative:ud1-ej5a-databinding\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ6-SECONDFORM\\MainForm.cs",
+              "RelativeDocumentMoniker": "UD1-EJ6-SECONDFORM\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ6-SECONDFORM\\MainForm.cs",
+              "RelativeToolTip": "UD1-EJ6-SECONDFORM\\MainForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:58:25.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ6-SECONDFORM\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "UD1-EJ6-SECONDFORM\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ6-SECONDFORM\\Properties\\Resources.resx",
+              "RelativeToolTip": "UD1-EJ6-SECONDFORM\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-05T15:55:13.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewTeacher.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ6-SECONDFORM\\NewTeacher.cs",
+              "RelativeDocumentMoniker": "UD1-EJ6-SECONDFORM\\NewTeacher.cs",
+              "ToolTip": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ6-SECONDFORM\\NewTeacher.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UD1-EJ6-SECONDFORM\\NewTeacher.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:50:37.756Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormStudent.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ6-SECONDFORM\\FormStudent.cs",
+              "RelativeDocumentMoniker": "UD1-EJ6-SECONDFORM\\FormStudent.cs",
+              "ToolTip": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ6-SECONDFORM\\FormStudent.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UD1-EJ6-SECONDFORM\\FormStudent.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:50:11.35Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ6-SECONDFORM\\MainForm.cs",
+              "RelativeDocumentMoniker": "UD1-EJ6-SECONDFORM\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ6-SECONDFORM\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UD1-EJ6-SECONDFORM\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:41:39.2Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ5A-DATABINDING\\City.cs",
+              "RelativeDocumentMoniker": "UD1-EJ5A-DATABINDING\\City.cs",
+              "ToolTip": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ5A-DATABINDING\\City.cs",
+              "RelativeToolTip": "UD1-EJ5A-DATABINDING\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:48:28.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ5A-DATABINDING\\Form1.cs",
+              "RelativeDocumentMoniker": "UD1-EJ5A-DATABINDING\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ5A-DATABINDING\\Form1.cs",
+              "RelativeToolTip": "UD1-EJ5A-DATABINDING\\Form1.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwFUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:46:04.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ5A-DATABINDING\\Form1.cs",
+              "RelativeDocumentMoniker": "UD1-EJ5A-DATABINDING\\Form1.cs",
+              "ToolTip": "C:\\Users\\Rub\u00E9n\\source\\repos\\UD1-EJEMPLO-MOVIES\\UD1-EJ5A-DATABINDING\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UD1-EJ5A-DATABINDING\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T14:45:58.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

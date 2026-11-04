@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UD2_PIZZA.Views.PersonalizarPizza"
+             Title="Personalizar tu Pizza"
+             BackgroundColor="Beige">
+    <VerticalStackLayout HorizontalOptions="Center">
+        <Image Source="ingredientes.png" Margin="50"/>
+        <Label Text="Ingrendientes adicionales" FontSize="18"/>
+        
+        <HorizontalStackLayout>
+            <CheckBox x:Name="chkQuesoextra" CheckedChanged="chkQuesoextra_CheckedChanged"/>
+            <Label Text="Queso Extra" VerticalOptions="Center"/>
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+            <CheckBox x:Name="chkJamon" CheckedChanged="chkJamon_CheckedChanged"/>
+            <Label Text="Jamón" VerticalOptions="Center"/>
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+            <CheckBox x:Name="chkChampinones" CheckedChanged="chkChampinones_CheckedChanged"/>
+            <Label Text="Champiñones" VerticalOptions="Center"/>
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+            <CheckBox x:Name="chkAceitunas" CheckedChanged="chkAceitunas_CheckedChanged"/>
+            <Label Text="Aceitunas" VerticalOptions="Center"/>
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout>
+            <CheckBox x:Name="chkPimientos" CheckedChanged="chkPimientos_CheckedChanged"/>
+            <Label Text="Pimientos" VerticalOptions="Center"/>
+        </HorizontalStackLayout>
+
+        <HorizontalStackLayout Spacing="15">
+            <Button Text="Volver" WidthRequest="70" HorizontalOptions="Start" Clicked="Btn_volver_Clicked"/>
+            <Button Text="Siguiente" WidthRequest="100" HorizontalOptions="Start" Clicked="btn_siguiente_clicked"/>
+        </HorizontalStackLayout>
+ 
+
+
+
+    </VerticalStackLayout>
+</ContentPage>

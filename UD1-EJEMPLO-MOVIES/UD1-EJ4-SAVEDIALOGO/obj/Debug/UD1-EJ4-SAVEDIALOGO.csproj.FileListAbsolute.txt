@@ -1,0 +1,10 @@
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ4-SAVEDIALOGO\bin\Debug\UD1-EJ4-SAVEDIALOGO.exe.config
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ4-SAVEDIALOGO\bin\Debug\UD1-EJ4-SAVEDIALOGO.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ4-SAVEDIALOGO\bin\Debug\UD1-EJ4-SAVEDIALOGO.pdb
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ4-SAVEDIALOGO\obj\Debug\UD1-EJ4-SAVEDIALOGO.csproj.AssemblyReference.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ4-SAVEDIALOGO\obj\Debug\UD1_EJ4_SAVEDIALOGO.Form1.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ4-SAVEDIALOGO\obj\Debug\UD1_EJ4_SAVEDIALOGO.Properties.Resources.resources
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ4-SAVEDIALOGO\obj\Debug\UD1-EJ4-SAVEDIALOGO.csproj.GenerateResource.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ4-SAVEDIALOGO\obj\Debug\UD1-EJ4-SAVEDIALOGO.csproj.CoreCompileInputs.cache
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ4-SAVEDIALOGO\obj\Debug\UD1-EJ4-SAVEDIALOGO.exe
+C:\Users\Rubén\source\repos\UD1-EJEMPLO-MOVIES\UD1-EJ4-SAVEDIALOGO\obj\Debug\UD1-EJ4-SAVEDIALOGO.pdb

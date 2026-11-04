@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:views="clr-namespace:UD2_EJ7_CAROUSEL.Views"
+             xmlns:models="clr-namespace:UD2_EJ7_CAROUSEL.Models"
+             x:Class="UD2_EJ7_CAROUSEL.Views.CarouselPage"
+             x:DataType="views:CarouselPage">
+    <VerticalStackLayout Padding="20" Spacing="10" BackgroundColor="CornflowerBlue">
+        <Label 
+            Text="CATÁLOGO DE JUGUETES"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" 
+            FontSize="20"
+            FontAttributes="Bold"
+            TextColor="White"/>
+
+        <CarouselView ItemsSource="{Binding ListToys}"
+                      BackgroundColor="White"
+                      IndicatorView="MyIndicatorView"
+                      CurrentItem="{Binding SelectedToy}">
+            
+            
+            <CarouselView.ItemTemplate>
+                <DataTemplate x:DataType="models:Toy">
+                    <Border StrokeShape="RoundRectangle 10" StrokeThickness="2" BackgroundColor="Orange">
+                        <StackLayout HorizontalOptions="Center">
+                            <Label Text="{Binding NameToy }" FontSize="12"/>
+                            <Image Source="{Binding ImageToy}" HeightRequest="150" Aspect="AspectFit"/>
+                            <Label Text="{Binding AgeRecommended, StringFormat='Edad recomendada {0} años'}" />
+                        </StackLayout>
+                    </Border>
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
+        
+        </CarouselView>
+
+        <IndicatorView x:Name="MyIndicatorView" HorizontalOptions="Center" 
+                       IndicatorColor="Black"
+                       SelectedIndicatorColor="BlueViolet"/>
+
+        <Border StrokeShape="RoundRectangle 10" StrokeThickness="2" 
+                BackgroundColor="Orange" Padding="5">
+            <VerticalStackLayout>
+                <Label Text="Detalles del precio del juguete: " 
+                       FontSize="12"
+                       FontAttributes="Bold"
+                       />
+
+                <Label Text="{Binding SelectedToy.PriceToy, StringFormat='precio {0} euros'} " 
+                       FontSize="12"
+                       FontAttributes="Bold"
+                       />
+            </VerticalStackLayout>
+        </Border>
+    </VerticalStackLayout>
+</ContentPage>

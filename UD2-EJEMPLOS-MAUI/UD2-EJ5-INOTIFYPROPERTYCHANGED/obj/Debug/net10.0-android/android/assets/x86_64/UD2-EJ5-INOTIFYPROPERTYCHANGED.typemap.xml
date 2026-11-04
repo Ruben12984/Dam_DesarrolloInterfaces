@@ -1,0 +1,10 @@
+<api type="debug" assembly-name="UD2-EJ5-INOTIFYPROPERTYCHANGED" mvid="1b382bada240432a85983c3f8cd38715">
+  <java-to-managed>
+    <entry java-name="crc64412826319c089027/MainActivity" managed-name="UD2_EJ5_INOTIFYPROPERTYCHANGED.MainActivity, UD2-EJ5-INOTIFYPROPERTYCHANGED" managed-type-token-id="33554443" />
+    <entry java-name="crc64412826319c089027/MainApplication" managed-name="UD2_EJ5_INOTIFYPROPERTYCHANGED.MainApplication, UD2-EJ5-INOTIFYPROPERTYCHANGED" managed-type-token-id="33554444" />
+  </java-to-managed>
+  <managed-to-java>
+    <entry java-name="crc64412826319c089027/MainActivity" managed-name="UD2_EJ5_INOTIFYPROPERTYCHANGED.MainActivity, UD2-EJ5-INOTIFYPROPERTYCHANGED" managed-type-token-id="33554443" />
+    <entry java-name="crc64412826319c089027/MainApplication" managed-name="UD2_EJ5_INOTIFYPROPERTYCHANGED.MainApplication, UD2-EJ5-INOTIFYPROPERTYCHANGED" managed-type-token-id="33554444" />
+  </managed-to-java>
+</api>

@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc6406938171cf7efb07" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="UD2_EJERCICIO_COLORMAKER.MainActivity, UD2-EJERCICIO-COLORMAKER">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc6406938171cf7efb07" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="UD2_EJERCICIO_COLORMAKER.MainApplication, UD2-EJERCICIO-COLORMAKER" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="UD2-EJERCICIO-COLORMAKER" module-name="UD2-EJERCICIO-COLORMAKER.dll">
+    <type assembly-qualified-name="UD2_EJERCICIO_COLORMAKER.MainActivity, UD2-EJERCICIO-COLORMAKER, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="ud2_ejercicio_colormaker.MainActivity" java-key="crc6406938171cf7efb07.MainActivity" managed-key="UD2_EJERCICIO_COLORMAKER.MainActivity" partial-assembly-qualified-name="UD2_EJERCICIO_COLORMAKER.MainActivity, UD2-EJERCICIO-COLORMAKER" />
+    <type assembly-qualified-name="UD2_EJERCICIO_COLORMAKER.MainApplication, UD2-EJERCICIO-COLORMAKER, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="ud2_ejercicio_colormaker.MainApplication" java-key="crc6406938171cf7efb07.MainApplication" managed-key="UD2_EJERCICIO_COLORMAKER.MainApplication" partial-assembly-qualified-name="UD2_EJERCICIO_COLORMAKER.MainApplication, UD2-EJERCICIO-COLORMAKER" />
+  </acw-types>
+</api>
