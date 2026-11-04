@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EJ-MAUi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+7101475e2d68448e1e2fdf0ce3ca4073d266e300")]
 [assembly: System.Reflection.AssemblyProductAttribute("EJ-MAUi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EJ-MAUi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

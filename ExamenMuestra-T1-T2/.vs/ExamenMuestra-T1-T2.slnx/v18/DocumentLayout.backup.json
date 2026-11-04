@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\repos\\ExamenMuestra-T1-T2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B95D497-5DB7-4B5C-B09A-D5EA0F6CC22F}|EJ-MAUi\\EJ-MAUi.csproj|c:\\repos\\examenmuestra-t1-t2\\ej-maui\\views\\agendapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0B95D497-5DB7-4B5C-B09A-D5EA0F6CC22F}|EJ-MAUi\\EJ-MAUi.csproj|solutionrelative:ej-maui\\views\\agendapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CB1AE833-97B3-7C4B-AD9C-F7EE1622A021}|EJ-MAUi\\EJ-MAUi.csproj|c:\\repos\\examenmuestra-t1-t2\\ej-maui\\views\\agendapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CB1AE833-97B3-7C4B-AD9C-F7EE1622A021}|EJ-MAUi\\EJ-MAUi.csproj|solutionrelative:ej-maui\\views\\agendapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B95D497-5DB7-4B5C-B09A-D5EA0F6CC22F}|EJ-MAUi\\EJ-MAUi.csproj|c:\\repos\\examenmuestra-t1-t2\\ej-maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0B95D497-5DB7-4B5C-B09A-D5EA0F6CC22F}|EJ-MAUi\\EJ-MAUi.csproj|solutionrelative:ej-maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{CB1AE833-97B3-7C4B-AD9C-F7EE1622A021}|EJ-MAUi\\EJ-MAUi.csproj|c:\\repos\\examenmuestra-t1-t2\\ej-maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CB1AE833-97B3-7C4B-AD9C-F7EE1622A021}|EJ-MAUi\\EJ-MAUi.csproj|solutionrelative:ej-maui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "EJ-MAUi\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-11-04T20:58:44.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-04T20:58:44.427Z"
             },
             {
               "$type": "Document",
@@ -39,9 +38,9 @@
               "Title": "AgendaPage.xaml",
               "DocumentMoniker": "C:\\repos\\ExamenMuestra-T1-T2\\EJ-MAUi\\Views\\AgendaPage.xaml",
               "RelativeDocumentMoniker": "EJ-MAUi\\Views\\AgendaPage.xaml",
-              "ToolTip": "C:\\repos\\ExamenMuestra-T1-T2\\EJ-MAUi\\Views\\AgendaPage.xaml*",
-              "RelativeToolTip": "EJ-MAUi\\Views\\AgendaPage.xaml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\repos\\ExamenMuestra-T1-T2\\EJ-MAUi\\Views\\AgendaPage.xaml",
+              "RelativeToolTip": "EJ-MAUi\\Views\\AgendaPage.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-11-04T20:57:59.742Z",
               "EditorCaption": ""

@@ -29,7 +29,7 @@
                     <x:Array Type="{x:Type x:String}" >
                         <x:String>Desarrollo de interfaces</x:String>
                         <x:String>Acceso a datos</x:String>
-                        <x:String>Sistema de gestion empresarial</x:String>
+                        <x:String>Sistema de gestion empresarial Jesus</x:String>
                     </x:Array>
                 </Picker.ItemsSource>
             </Picker>
